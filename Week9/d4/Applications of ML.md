@@ -1,0 +1,5 @@
+Welcome to the course on Applications of Machine Learning! In this course, you will gain the knowledge and skills necessary to apply machine learning techniques to real-world problems. Specifically, you will perform regression and classification analysis, use natural language processing (NLP) techniques to analyze and manipulate text data, and design and implement a simple recommender engine.
+
+Additionally, you will develop the ability to communicate the results and implications of machine learning analyses to both technical and non-technical audiences. We will cover the principles and techniques behind machine learning algorithms, as well as how to select appropriate algorithms and techniques for a given problem, and how to tune and optimize the performance of a machine learning model.
+
+Finally, you will develop the ability to critically evaluate the suitability and limitations of machine learning techniques for a given problem. By the end of this course, you will be equipped with the tools and knowledge necessary to apply machine learning to real-world problems and communicate your findings effectively to a variety of audiences.
