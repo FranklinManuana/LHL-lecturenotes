@@ -1,0 +1,3 @@
+## Classification
+
+The key distinction between classification and regression problems lies in the type of target variable or label being used. In regression, this is a numeric variable that is continuous, while in classification, it is a categorical variable that consists of at least two categories. Depending on the number of categories, the classification process is referred to as either binary or multinomial. Binary classification is applied when there are two classes, while multinomial classification is used when there are more than two classes.

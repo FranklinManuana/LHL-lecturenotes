@@ -1,0 +1,7 @@
+We are now going to practice **Centroid Models**.
+
+Instruction
+
+Access the [Unsupervised Learning](https://github.com/lighthouse-labs/unsupervised-learning) repository, and access the Centroid Model Tutorial.
+
+We have created this GitHub repository that includes everything you need to complete the walkthroughs and exercises in this unit. Start by making your own copy of the repo. Be sure to name it something recognizable. Clone the repo to your local machine. Read the description and follow the instructions in the appropriate tutorial or exercise file in the repo.

@@ -1,0 +1,9 @@
+Today, you will be shifting gears into learning more about Machine Learning Operations (ML Ops). In this course, you will be covering essential concepts related to ML operations, including pipelines and deployment, model persistence using tools like pickle and joblib, tuning parameters, column transformer, advanced tuning parameters, APIs using Flask, and deploying your ML models in AWS.
+
+As data professionals, you often spend a lot of time and effort on building accurate and efficient ML models. However, the process of building and deploying these models can be complex and time-consuming. This is where ML operations come in.
+
+Understanding ML operations is crucial for data scientists because it helps in managing the entire lifecycle of a machine learning model. It involves tasks such as data preparation, feature engineering, model training, model testing, model deployment, and monitoring. By learning about ML operations, data scientists can streamline their workflows and improve their efficiency, leading to better models and faster deployment times.
+
+Throughout this course, you will cover various tools and techniques that will help you build effective ML pipelines, deploy models in production, and manage your models effectively. You will learn how to persist your models using pickle and joblib, how to use advanced tuning parameters to optimize model performance, and how to build APIs using Flask for deploying your models. Additionally, you will explore the deployment of models in AWS, one of the most popular cloud platforms for machine learning.
+
+By the end of this course, you will have a strong understanding of machine learning operations and be able to implement best practices for managing the entire lifecycle of a machine learning model.
