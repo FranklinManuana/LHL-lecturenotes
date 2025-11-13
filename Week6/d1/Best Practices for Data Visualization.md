@@ -1,0 +1,3 @@
+Read about the best practices of data visualization in [this resource provided by GoodData](https://www.gooddata.com/blog/5-data-visualization-best-practices-0).
+
+The article highlights 5 best practices that we should remember when working with data visualization. As we expand on the concepts of data visualization and gain exposure to different tools, you should still draw on these best practices as they will enable you to make the best use of your skillset for the problem at hand.

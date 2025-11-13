@@ -1,0 +1,7 @@
+## Exercise
+
+Instruction
+
+Access the [Data Preparation - Feature Engineering](https://github.com/lighthouse-labs/data-prep-feature-engineering) repository, and access the Feature Engineering Challenge.
+
+We have created this GitHub repository that includes everything you need to complete the walkthroughs and exercises in this unit. Start by making your own copy of the repo. Be sure to name it something recognizable. Clone the repo to your local machine. Read the description and follow the instructions in the appropriate tutorial or exercise file in the repo.
