@@ -9,17 +9,17 @@ This repository contains a structured collection of lecture notes (notebooks, ma
 ---
 
 ## Folder Structure  
-Week1/
-Week2/
-Week3/
-Week4/
-Week5/
-Week6/
-Week7/
-Week8(no folder,project and review week)/
-Week9/
-Week10/
-DS_Final_Project_Planning.md
+- Week1/
+-  Week2/
+- Week3/
+- Week4/
+- Week5/
+- Week6/
+- Week7/
+- Week8(no folder,project and review week)/
+- Week9/
+- Week10/
+- DS_Final_Project_Planning.md
 
 ---
 
@@ -74,5 +74,3 @@ Refer to **`DS_Final_Project_Planning.md`** for:
 
 ---
 
-## Naming Conventions (Optional)  
-To keep files organised and searchable, consider using a consistent naming pattern:  
