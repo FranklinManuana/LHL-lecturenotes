@@ -16,10 +16,11 @@ Week4/
 Week5/
 Week6/
 Week7/
-Week8/
+Week8(no folder,project and review week)/
 Week9/
 Week10/
 DS_Final_Project_Planning.md
+
 ---
 
 ## Weekly Index  
