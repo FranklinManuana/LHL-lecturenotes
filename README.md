@@ -57,7 +57,7 @@ Below is the index of weeks, along with their primary focus. Click the folder li
 ---
 
 ## Final Project Planning  
-Refer to [**`DS_Final_Project_Planning.md`**](../DS_Final_Project_Planning.md) for:  
+Refer to [**`DS_Final_Project_Planning.md`**](DS Final Project Planning.md) for:  
 - Project idea brainstorming  
 - Problem statement, success metrics  
 - Data-source inventory, constraints & assumptions  
